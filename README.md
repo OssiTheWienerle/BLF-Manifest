@@ -1,4 +1,4 @@
-# BLF-Manifest
+# BLP-Manifest
 Alternatives Grundsatzprogramm für Deutschland/Europa. Freiheit, Eigenverantwortung, Fortschritt. Weniger Bürokratie, mehr Zukunft. Kritik willkommen.
 Eine Bewegung für Liberalen Fortschritt
 Das BLF-Manifest ist ein alternatives Grundsatzprogramm für Deutschland und Europa. Es basiert auf drei Säulen: Freiheit, Eigenverantwortung, Fortschritt.
