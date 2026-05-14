@@ -1,7 +1,7 @@
 ---
 # yaml-language-server: $schema=schemas/blf.schema.json
 Object type:
-    - BLF
+    - BPL-Manifest
 Creation date: "2026-05-14T16:08:18Z"
 Created by:
     - Oscar Bartel
