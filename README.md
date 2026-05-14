@@ -6,3 +6,5 @@ Wir fordern einen schlanken, aber effektiven Staat. Soziale Sicherheit ohne Bevo
 Wir glauben nicht an perfekte Systeme. Wir glauben an lernende, anpassende, transparente Politik. Nicht perfekt von Anfang an. Sondern besser durch Kritik und Iteration.
 Dieses Manifest ist kein fertiges Produkt. Es ist ein Angebot zur Diskussion. Wir hören zu. Wir lernen. Wir passen an.
 Kontakt: oscar.bartel@protonmail.com 
+
+Link für den Steuerrechner: https://ai.studio/apps/5167fead-1e94-4542-80ea-4304aa354e4a?fullscreenApplet=true
