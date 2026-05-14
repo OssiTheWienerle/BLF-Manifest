@@ -4,7 +4,7 @@ Object type:
     - BLF
 Creation date: "2026-05-14T16:08:18Z"
 Created by:
-    - ProudAustrian
+    - Oscar Bartel
 id: bafyreiclwg3c7hbzxgbewejfsmfo7vudejpephqvpucypvlgkhd3ewslxq
 ---
 # BPL - Manifest   
